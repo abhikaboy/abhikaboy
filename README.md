@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm a first year student at Northeastern studying Computer Science and Design.
+https://abhikray.com
+https://relayapp.gg/
+
+- Currently Working on: Relay
 
 <!--
 **abhikaboy/abhikaboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
