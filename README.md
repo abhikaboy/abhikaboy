@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a first-year student at Northeastern studying Computer Science and Design.
+I'm a student at Northeastern studying Computer Science and Design.
 - https://abhikray.com
 - https://relayapp.gg/
 
