@@ -1,7 +1,14 @@
 ### Hi there 👋
+
 I'm a student at Northeastern studying Computer Science and Design.
-- https://abhikray.com
-- https://relayapp.gg/
+I'm an incoming Software Engineering Intern at MongoDB 🍀
+Aside from that, I'm also a Tech Lead in Generate - Northeastern's Product Development Studio building _PlateMate_
+Recently finished a Semester as a Product Lead in Generate building _Platnm_
+
+A few helpful links: 
+- 💻 https://abhikray.com
+- 🦕 https://relayapp.gg/
+
 
 
 <!--
