@@ -6,9 +6,9 @@
 🍽️ Aside from that, I'm also a Tech Lead in Generate - Northeastern's Product Development Studio building _PlateMate_ <br>
 🎧 Recently finished a Semester as a Product Lead in Generate building _Platnm_ <br>
 
-Look at my work! : 
-💻 https://abhikray.com
-🦕 https://relayapp.gg/
+Look at my work! :  <br>
+💻 https://abhikray.com <br>
+🦕 https://relayapp.gg/ <br>
 
 
 
