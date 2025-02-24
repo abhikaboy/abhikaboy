@@ -3,6 +3,8 @@
 🙋‍♂️ I'm a student at Northeastern studying Computer Science 👨‍💻 and Interaction Design 🎨. <br>
 
 💻 I'm an incoming Software Engineering Intern at MongoDB 🍀 <br>
+💻 Currently Building: _Kindred_✓💜 <br>
+
 🍽️ Aside from that, I'm also a Tech Lead in Generate - Northeastern's Product Development Studio building _PlateMate_ <br>
 🎧 Recently finished a Semester as a Product Lead in Generate building _Platnm_ <br>
 
