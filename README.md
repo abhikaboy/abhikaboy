@@ -12,6 +12,7 @@ Look at my work! :  <br>
 💻 https://abhikray.com <br>
 🦕 https://relayapp.gg/ <br>
 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/4z5gS7C4LphtrMFHiQcDUu?si=9b90248033494715)
 
 
 <!--
