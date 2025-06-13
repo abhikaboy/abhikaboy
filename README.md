@@ -8,7 +8,7 @@
 🍽️ Aside from that, I am the Software Director for Generate - Northeastern's Product Development Studio
 🎧 Recently finished a Semester as a Product Lead in Generate building _Platnm_ <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhikaboy&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhikaboy&theme=tokyonight" alt="mystreak"/>
 
 Look at my work! :  <br>
 💻 https://abhikray.com <br>
