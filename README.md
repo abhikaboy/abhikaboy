@@ -2,17 +2,18 @@
 
 🙋‍♂️ I'm a student at Northeastern studying Computer Science 👨‍💻 and Interaction Design 🎨. <br>
 
-💻 I'm a Software Engineering Intern at MongoDB 🍀 on the Atlas Stream Processing Engine Team <br>
+🧡 I'm an incoming Software Engineer Co-op at Klaviyo <br>
+💻 I just finished a summer as a Software Engineer Intern at MongoDB 🍀 on the Atlas Stream Processing Engine Team <br>
 📋 Currently Building: [Kindred](https://kindredtodo.com/)  <br>
 
 🍽️ Aside from that, I am the Software Director for Generate - Northeastern's Product Development Studio
-🎧 Recently finished a Semester as a Product Lead in Generate building _Platnm_ <br>
+🎧 Recently finished a Semester as a Product Lead in Generate building _Platemate_ <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhikaboy&theme=tokyonight" alt="mystreak"/>
 
 Look at my work! :  <br>
 💻 https://abhikray.com <br>
-🦕 https://relayapp.gg/ <br>
+🦕 https://kindredtodo.com <br>
 
 
 <!--
