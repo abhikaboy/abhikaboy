@@ -2,7 +2,7 @@
 
 🙋‍♂️ I'm a student at Northeastern studying Computer Science 👨‍💻 and Interaction Design 🎨. <br>
 
-🧡 I'm an incoming Software Engineer Co-op at Klaviyo <br>
+🧡 I'm a Software Engineer Co-op at Klaviyo <br>
 💻 I just finished a summer as a Software Engineer Intern at MongoDB 🍀 on the Atlas Stream Processing Engine Team <br>
 📋 Currently Building: [Kindred](https://kindredtodo.com/)  <br>
 
