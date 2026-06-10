@@ -6,8 +6,7 @@
 💻 I just finished a summer as a Software Engineer Intern at MongoDB 🍀 on the Atlas Stream Processing Engine Team <br>
 📋 Currently Building: [Kindred](https://kindredtodo.com/)  <br>
 
-🍽️ Aside from that, I am the Software Director for Generate - Northeastern's Product Development Studio
-🎧 Recently finished a Semester as a Product Lead in Generate building _Platemate_ <br>
+🍽️ Aside from that, I am the Software Director for Generate - Northeastern's Product Development Studio <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhikaboy&theme=tokyonight" alt="mystreak"/>
 
