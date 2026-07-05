@@ -2,11 +2,9 @@
 
 🙋‍♂️ I'm a student at Northeastern studying Computer Science 👨‍💻 and Interaction Design 🎨. <br>
 
-🧡 I'm a Software Engineer Co-op at Klaviyo <br>
-💻 I just finished a summer as a Software Engineer Intern at MongoDB 🍀 on the Atlas Stream Processing Engine Team <br>
+🧡 I'm a Software Engineer Co-op at Klaviyo working on Agent & MCP Auth<br>
+💻 I just finished a summer as a Software Engineer Intern at MongoDB 🍀 on the Atlas Stream Processing Team where I built [$cachedLookup](https://www.mongodb.com/docs/atlas/atlas-stream-processing/sp-agg-cachedlookup/) <br>
 📋 Currently Building: [Kindred](https://kindredtodo.com/)  <br>
-
-🍽️ Aside from that, I am the Software Director for Generate - Northeastern's Product Development Studio <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhikaboy&theme=tokyonight" alt="mystreak"/>
 
